@@ -1,0 +1,8 @@
+.env
+serviceAccountKey.json
+.firebase/*
+!firebase.json
+!firestore.rules
+!firestore.indexes.json
+functions/node_modules
+.firebase_cache/
