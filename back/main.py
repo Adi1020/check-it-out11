@@ -17,7 +17,7 @@ def signup(email, password):
 
 # Example usage
 if __name__ == '__main__':
-    # result = login('JA@mail.com', '123456')
+    # result = login('example@mail.com', 'password')
     # if result['success']:
     #     print(f"Login successful for user: {result['user']['localId']}")
     # else:
