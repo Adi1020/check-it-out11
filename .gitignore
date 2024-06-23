@@ -30,6 +30,19 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env  # Ensuring the main .env file is also ignored
 
 # typescript
 *.tsbuildinfo
+
+# Firebase Admin SDK
+check-it-out-265bd-firebase-adminsdk-ay37y-66cdde0610.json
+
+# VS Code settings
+.vscode/
+
+# Android specific
+/android/app/debug.keystore
+
+# iOS specific
+ios/Pods/
